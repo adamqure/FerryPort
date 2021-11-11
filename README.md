@@ -1,7 +1,9 @@
 The project specifications include the following:
 
 PART 1:
-1. Design a ferry terminal:- Small ferry can fit 8 small vehicles- Large ferry can fit 6 large vehicles
+1. Design a ferry terminal:
+- Small ferry can fit 8 small vehicles
+- Large ferry can fit 6 large vehicles
 2. A terminal employee gets paid 10% of every ticket.
 3. If a vehicle has less than 10% gas in the tank, the employee must fill it up at the gas station.
 4. Every van and truck must go through a customs inspection. 
